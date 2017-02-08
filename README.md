@@ -10,3 +10,6 @@ Ok what happens after a bracnh?
 lets commit!
 Add something more and comit again.
 
+#The merge needs some exersize
+lets do a commit to master
+

@@ -8,3 +8,5 @@ just cloned the getting started to my lokal computer
 #Branched lokal
 Ok what happens after a bracnh?
 lets commit!
+Add something more and comit again.
+

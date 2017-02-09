@@ -12,5 +12,7 @@ Add something more and comit again.
 
 #The merge needs some exersize
 <!--lets do a commit to master-->
-ok I' m still in loakal branch so merge
+ok I' m still in loakal brunch so merge
 
+#Back on master
+Don't know how but i killed the lokal brunch in the web.

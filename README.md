@@ -39,4 +39,5 @@ let test = 1
 
 * checkount under new loakel branch
 * comit
-* changes still loakl so  comit and push
+* changes still lokal so  comit and push
+* comit change, push and pull
